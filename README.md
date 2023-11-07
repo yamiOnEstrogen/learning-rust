@@ -3,7 +3,7 @@
 
 I decided to learn [rust](https://rust-lang.org) because I feel like I would like it.
 
-I have made [one](https://git.hylia.dev/Reddit-Bot) with [rust](https://rust-lang.org).
+I have made [one](https://git.hylia.dev/Reddit-Bot) project with [rust](https://rust-lang.org).
 
 ## Running The Executeables
 
